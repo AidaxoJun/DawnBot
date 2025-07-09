@@ -22,7 +22,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/blinddumper/Dawn-Bot
+git clone https://github.com/aidaxojun/Dawn-Bot
 cd Dawn-Bot
 run.bat
 ```
@@ -50,7 +50,8 @@ mail:pass2
 
 
 # Showcase💥
-![image](https://github.com/user-attachments/assets/68379282-2e21-4d48-84e9-c0ab0c0ea3f4)
+![image](https://github.com/user-attachments/assets/886fb859-69f6-48a7-b47f-cbfbaab36365)
+
 
 
 
